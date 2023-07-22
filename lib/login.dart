@@ -22,7 +22,7 @@ class _MyloginState extends State<Mylogin> {
               padding: EdgeInsets.only(left: 35,top: 130),
               child: Text(
                 'Hello User :)',
-                style: TextStyle(fontFamily: 'Tektur', fontSize: 55,color: Colors.white),
+                style: TextStyle(fontFamily: 'Tektur', fontSize: 56,color: Colors.white),
               ),
             ),
             SingleChildScrollView(
