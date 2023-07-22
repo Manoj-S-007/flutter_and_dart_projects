@@ -1,16 +1,16 @@
 # login_application
 
-A new Flutter project.
+This is the Flutter Project of a visually appealing login page and register page with enriched font family
 
-## Getting Started
+![Login page](https://github.com/Manoj-S-007/mobile_applications/assets/77037123/af57de26-1327-41e2-937b-925adba3fb27)
 
-This project is a starting point for a Flutter application.
+![Register page](https://github.com/Manoj-S-007/mobile_applications/assets/77037123/b19c224a-d6f5-4068-96b7-81bc69326307)
 
-A few resources to get you started if this is your first Flutter project:
+![Output 1](https://github.com/Manoj-S-007/mobile_applications/assets/77037123/a30ba494-6b7e-4efe-a12b-aa02848a4d0b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Output 2](https://github.com/Manoj-S-007/mobile_applications/assets/77037123/98749279-2acc-4080-b71d-52e634f53063)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
